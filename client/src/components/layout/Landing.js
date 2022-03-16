@@ -5,7 +5,7 @@ import WithScrollbar from './WithScrollbar'
 import 'react-multi-carousel/lib/styles.css'
 import clientsImage from '../../img/clients.jpg'
 import Clients from './Clients'
-import homeSlider from '../../img/homeslider.mp4'
+import homeSlider from '../../img/video/homeslider.mp4'
 
 const Landing = () => {
   return (
